@@ -1,0 +1,28 @@
+.fclass
+{
+	border-color:blue;
+	border: 2px solid blue;
+	 border-radius: 25px;
+}
+
+.lg {
+  background-color:blue;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
+
+#t1 {
+  border: 1px solid black;
+}
+
+.lbtd {
+  text-align: left;
+   color: white;
+}
+
+.txtf
+{
+	 background-color: black;
+  color: white;
+}
